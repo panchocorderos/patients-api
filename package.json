@@ -1,0 +1,10 @@
+{
+  "name": "patients-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^9.17.2",
+    "uuid": "^9.0.0"
+  }
+}
